@@ -7,6 +7,8 @@
 
 - 📫 Você pode me achar através do e-mail **hpss.neto@gmail.com**
 
+- 🌐 Você pode vizualizar meu portfólio aqui: https://heleoneto-portfolio.my.canva.site/
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/heleonorio.neto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="heleonorio.neto" height="30" width="40" /></a>
